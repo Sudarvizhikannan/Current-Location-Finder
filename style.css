@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&family=Bai+Jamjuree:wght@400;500;600;700&family=Barlow&family=Barlow+Condensed:ital,wght@0,300;0,400;1,100&family=Bellefair&family=Black+Ops+One&family=Josefin+Slab&family=Lobster&family=Merienda:wght@300&family=Montserrat+Alternates&family=Noto+Serif&family=Nunito+Sans:wght@200;300;400;500;600&family=Nunito:wght@200;300;400;500;600&family=Open+Sans:wght@300&family=Philosopher:wght@400;700&family=Poppins:wght@100;200;300;400;500;600&family=Roboto:wght@400;500&family=Saira+Condensed:wght@300&family=Unna:ital@0;1&display=swap');
 
 
 
@@ -8,6 +9,7 @@
 }
 body{
     height: 100vh;
+     font-family: 'Merienda', cursive;
     text-align: center;
     background: blueviolet;
     background:linear-gradient(45deg, #0b7df0 , rgb(105, 144, 228)) ;
